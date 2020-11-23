@@ -22,7 +22,8 @@ You must have a account before run this web crawler.
 ```python
 getHTML(browser, IDs = [24107])
 ```
-The ID of company "3Com Corporation" is 24107
-And the crawler will lead you to 
-https://www.capitaliq.com/CIQDotNet/Transcripts/Summary.aspx?companyId=24107
+The ID of company "3Com Corporation" is 24107.
 
+And the crawler will lead you to ->
+
+https://www.capitaliq.com/CIQDotNet/Transcripts/Summary.aspx?companyId=24107
