@@ -1,8 +1,10 @@
 # Capital IQ Transcript Crawler
 
+## 1. Introduction
+
 A web crawler based on Selenium and BeautifulSoup
 
-## 1. Installlation
+## 2. Installlation
 
 ### 2.1. Dependencies
 
