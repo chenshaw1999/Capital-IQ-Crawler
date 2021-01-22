@@ -4,7 +4,7 @@
 
 A web crawler based on Selenium and BeautifulSoup
 
-## 2. Installlation
+## 2. Installation
 
 ### 2.1. Dependencies
 
