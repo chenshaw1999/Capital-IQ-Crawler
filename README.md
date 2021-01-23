@@ -8,6 +8,7 @@ A web crawler based on Selenium and BeautifulSoup
 
 ### 2.1. Dependencies
 
+* [ChromeDriver](https://chromedriver.chromium.org/downloads "link") 
 * Selenium
 * BeautifulSoup
 
